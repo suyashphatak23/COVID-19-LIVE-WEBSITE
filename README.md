@@ -12,9 +12,6 @@ In this project, I have created a live website which will show the cases around 
 [![Build Status](http://img.shields.io/travis/badges/badgerbadgerbadger.svg?style=flat-square)](https://travis-ci.org/badges/badgerbadgerbadger)
 [![Coverage Status](http://img.shields.io/coveralls/badges/badgerbadgerbadger.svg?style=flat-square)](https://coveralls.io/r/badges/badgerbadgerbadger)
 
-# Deployment Link
-[Heroku Link](https://covidapplive.herokuapp.com/)
-
 # Outputs
 
 ## Home Page
